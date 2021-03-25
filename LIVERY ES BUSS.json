@@ -1,0 +1,125 @@
+{
+   "pc": "com.kalonghideung.liveryesbuss",
+   "kang_zayvius": [
+       {
+        "id": "1",
+        "tittle": "MURNI JAYA",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/Murni%20Jaya%20SR2.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-4elAwJ5hl4M/XDqgJ252-4I/AAAAAAAAYL4/VhPp_yK8IRUaG7Z2VGAN7x5Jj72gMxeiwCKgBGAs/s400/Screenshot_20190110-083914_ES_Bus_Simulator_ID_2.png"
+      },
+      {
+        "id": "2",
+        "tittle": "NUSA BHAKTI",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/NusaBhaktiSHD-.zip",
+        "format_file":"zip",
+        "images": "https://2.bp.blogspot.com/-KX4fAHtlJ5M/W7tlUfz-ftI/AAAAAAAAVQI/NeadanArTx4EuBR61LJCHGZsnHzwdp2DwCKgBGAs/s400/Screenshot_2018-10-08-21-00-10-913_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "3",
+        "tittle": "MUJI JAYA",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/MujiJayaSHD.zip",
+        "format_file":"zip",
+        "images": "https://4.bp.blogspot.com/-g5tkUImdNM0/W7cIRKBThVI/AAAAAAAAVL4/lG0MkoeU_fMnysYHLSnd0baoKUiz3UXmgCKgBGAs/s400/Screenshot_2018-10-05-10-12-58-822_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "4",
+        "tittle": "BULAN JAYA SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/BulanJayaSHD.zip",
+        "format_file":"zip",
+        "images": "https://2.bp.blogspot.com/-rga7czmvN-Y/W7cIEUYOoUI/AAAAAAAAVL0/uO5xZB7TlLA0i7VhxypSI9Pj57tBXSHZwCKgBGAs/s400/Screenshot_2018-10-03-21-30-08-789_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "5",
+        "tittle": "RAMAYANA SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/Bus%202%20Ramayana.zip",
+        "format_file":"zip",
+        "images": "https://4.bp.blogspot.com/-OnKLamE44eM/W6mWXMho3NI/AAAAAAAAUy8/ANfwxSeJK5YK5kOepHj49XT_GYLnnn0gACKgBGAs/s400/Screenshot_2018-09-09-14-53-49-777_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "6",
+        "tittle": "MEDAN JAYA SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/Bus%202%20Medan%20Jaya.zip",
+        "format_file":"zip",
+        "images": "https://2.bp.blogspot.com/-z70Cn8CutTs/W6mV2cSAwAI/AAAAAAAAUyw/ITkf5Ay7-mcDRz-fhWYqkRbiDaun6y-NACKgBGAs/s400/Screenshot_2018-09-09-15-01-57-787_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "7",
+        "tittle": "DAMRI SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/Bus%202%20Damri.zip",
+        "format_file":"zip",
+        "images": "https://3.bp.blogspot.com/-7yx6U9UEQBA/W6mVeEu59SI/AAAAAAAAUyk/EPmXxURTI9cY5LwpgwpXFgM3gMEhalaagCKgBGAs/s400/Screenshot_2018-09-09-15-04-46-379_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "8",
+        "tittle": "BALI RADIANCE SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/BALI%20RADIANCE%20EBS.zip",
+        "format_file":"zip",
+        "images": "https://3.bp.blogspot.com/-3w4CYpT5eOI/W6mVO1YgYhI/AAAAAAAAUyg/sNMei3N9wsQF8vJRVNqx3OAe6rFkgM8xACKgBGAs/s1600/Screenshot_2018-09-10-09-43-31-238_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "9",
+        "tittle": "GARUDA MAS SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/Bus%202%20Garuda%20Mas.zip",
+        "format_file":"zip",
+        "images": "https://2.bp.blogspot.com/-F5l7Ogk6eCo/W6mUdQtdj4I/AAAAAAAAUyU/gr0bpM2cXR4ut5gutJJn-rS2Cccq28QywCKgBGAs/s1600/Screenshot_2018-09-11-19-15-03-478_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "10",
+        "tittle": "Pahala Kencana SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/Bus%202%20Pahala%20Kencana.zip",
+        "format_file":"zip",
+        "images": "https://3.bp.blogspot.com/-mYYSUXvzKPE/W6mUJsCb--I/AAAAAAAAUyI/XSylOdAsRsslY_EBWhmWUS9GgYD0UM66gCKgBGAs/s400/Screenshot_2018-09-15-09-47-40-063_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "11",
+        "tittle": "ANDROMEDA SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/Bus%202%20Andromeda.zip",
+        "format_file":"zip",
+        "images": "https://2.bp.blogspot.com/-jjgpwEpqYjw/W6mT6dvSH_I/AAAAAAAAUyE/T-oes5DotlYibFT6N860tBMKt4YqBM6dgCKgBGAs/s400/Screenshot_2018-09-15-09-49-00-239_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "12",
+        "tittle": "ROSALIA INDAH SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/ROSALIA%20INDAH-.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-ObDNtVFDTXY/W5XF-bl2wrI/AAAAAAAAT-k/lNGymBcc9S0UEyIMiOrKcTBni3Z2vgrewCKgBGAs/s400/Screenshot_2018-09-09-16-20-17-320_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "13",
+        "tittle": "Satria Muda",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/SatriaMuda.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-JKuhdJE2ygo/W6mYQvVpJrI/AAAAAAAAUzI/Y31HVGu_asseVw6HNmulJEO-8hDvVN1fgCKgBGAs/s400/Screenshot_2018-09-13-18-12-17-860_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "14",
+        "tittle": "HARAPAN JAYA SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/bus-2-garuda-mas/Bus%202%20Harapan%20Jaya%20SDD.zip",
+        "format_file":"zip",
+        "images": "https://3.bp.blogspot.com/-WgYxV28OBls/W6mTk3EQAVI/AAAAAAAAUx8/lz3LvlFKYSYXKm8LNbFwg8g6uSgFQzuEgCKgBGAs/s400/Screenshot_2018-09-18-23-58-14-729_com.ES.ESbusim2.png"
+      },
+      {
+        "id": "25",
+        "tittle": "HARYANTO BLACK GOLD SHD",
+        "date": "2021-03-25",
+        "link_file": "https://archive.org/download/haryanto-wayang/haryanto-wayang.zip",
+        "format_file":"zip",
+        "images": "https://4.bp.blogspot.com/-cr-nZSQUcbM/W5QLewxd2xI/AAAAAAAATuI/Vwqt0hkvOHUglHZR23DvispqO9wGmTM6gCKgBGAs/s400/Screenshot_2018-09-09-00-25-09-414_com.ES.ESbusim2.png"
+      }
+   ]
+}
